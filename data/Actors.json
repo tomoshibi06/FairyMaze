@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"レナ","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"レナ０１","traits":[{"code":53,"dataId":1,"value":1},{"code":14,"dataId":50,"value":1},{"code":14,"dataId":51,"value":1},{"code":14,"dataId":62,"value":1}],"initialLevel":1,"maxLevel":99,"name":"レナ","nickname":"","note":"<abilityNetBases:1,21,49>\n","profile":"病気の母親のため、妖精の持つハーブを探しにきた少女。\n理由は不明だがツボが好き。"},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"フィオ","traits":[{"code":54,"dataId":1,"value":1},{"code":23,"dataId":0,"value":0.3}],"initialLevel":1,"maxLevel":99,"name":"フィオ","nickname":"","note":"<abilityNetBases:80,87>\n","profile":"レナが最初に出会った妖精の女の子。\n他の妖精から敬われているようだが…？"}
+]
